@@ -104,7 +104,7 @@ const games = [
     {
         id: "Hue & Seek",
         title: "Hue & Seek",
-        description: "Online hide-and-seek. Paint yourself to blend into the floor, or hunt the hiders. Share a room code to play with friends.",
+        description: "3D online hide-and-seek. Paint yourself to blend into the room, or hunt the hiders. Share a room code to play with friends.",
         category: "Multiplayer",
         icon: "🎨",
         iframe: "hue-and-seek.html"
