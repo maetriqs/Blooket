@@ -100,6 +100,15 @@ const games = [
         icon: "⛏️",
         iframe: "https://stellargdev.github.io/eaglerunblocked/"
     },
+
+    {
+        id: "Hue & Seek",
+        title: "Hue & Seek",
+        description: "Online hide-and-seek. Paint yourself to blend into the floor, or hunt the hiders. Share a room code to play with friends.",
+        category: "Multiplayer",
+        icon: "🎨",
+        iframe: "hue-and-seek.html"
+    },
 ];
 
 

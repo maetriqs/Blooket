@@ -20,3 +20,7 @@ ChatGPT made the base project
 
 I modified some things in the source code
 
+
+Hue & Seek (online hide-and-seek) uses PeerJS for peer-to-peer play
+(MIT License, Copyright (c) 2015 Michelle Bu and Eric Zhang: https://github.com/peers/peerjs ).
+A copy is in libs/peerjs.min.js.
